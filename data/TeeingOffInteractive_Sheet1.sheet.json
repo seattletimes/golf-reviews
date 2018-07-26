@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jefferson Park Golf Course",
+    "address": "4101 Beacon Ave. S., Seattle, WA 98108",
+    "lat": 47.567115,
+    "lng": "-122.3076",
+    "url": "https://www.seattletimes.com/sports/golf/teeing-off-with-hanson-and-smith-the-foods-great-at-historic-jefferson-park-golf-course-but-there-arent-many-memorable-holes/",
+    "scott": 2.5,
+    "craig": 2,
+    "Pub date": "July 10"
+  },
+  {
+    "name": "Lynnwood Golf Course",
+    "address": "20200 68th Ave. West, Lynnwood, WA 98036",
+    "lat": 47.815793,
+    "lng": "-122.3291",
+    "url": "https://www.seattletimes.com/sports/golf/teeing-off-the-game-needs-more-quick-versatile-courses-like-lynnwood-golf-course/",
+    "scott": 3,
+    "craig": 3,
+    "Pub date": "July 17"
+  }
+]

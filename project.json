@@ -1,0 +1,18 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "symbolical-refusal"
+    },
+    "live": {
+      "bucket": "",
+      "path": ""
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "sheets": ["1JwQpQVZ8PxjjhMFrVWWv_CDq-FqMmVInkssqEpvL6s0"]
+}
