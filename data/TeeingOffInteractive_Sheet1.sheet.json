@@ -18,5 +18,15 @@
     "scott": 3,
     "craig": 3,
     "Pub date": "July 17"
+  },
+  {
+    "name": "Mount Si Golf Course",
+    "address": "9010 Boalch Ave. S.E., Snoqualmie, WA 98065",
+    "lat": 47.519238,
+    "lng": "-121.799497",
+    "url": "https://www.seattletimes.com/sports/golf/teeing-off-mount-si-golf-course-is-great-for-beginners-and-offers-gorgeous-views/",
+    "scott": 3,
+    "craig": 3,
+    "Pub date": "July 24"
   }
 ]

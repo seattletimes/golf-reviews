@@ -5,8 +5,8 @@
       "path": "symbolical-refusal"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/sports/golf-reviews"
     }
   },
   "title": "",

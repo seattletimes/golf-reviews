@@ -28,8 +28,8 @@ window.course.forEach(function(data) {
     <b>${data.name}</b><br>
     <i>${data.address}</i><br>
     <br>
-    Craig Smith's rating: ${data.craig}/4<br>
     Scott Hanson's rating: ${data.scott}/4<br>
+    Craig Smith's rating: ${data.craig}/4<br>
     <a href="${data.url}" target="_blank">Read their review</a>
 
   `;
