@@ -7,6 +7,7 @@
     "url": "https://www.seattletimes.com/sports/golf/teeing-off-with-hanson-and-smith-the-foods-great-at-historic-jefferson-park-golf-course-but-there-arent-many-memorable-holes/",
     "scott": 2.5,
     "craig": 2,
+    "par": 70,
     "Pub date": "July 10"
   },
   {
@@ -17,6 +18,7 @@
     "url": "https://www.seattletimes.com/sports/golf/teeing-off-the-game-needs-more-quick-versatile-courses-like-lynnwood-golf-course/",
     "scott": 3,
     "craig": 3,
+    "par": 65,
     "Pub date": "July 17"
   },
   {
@@ -27,6 +29,29 @@
     "url": "https://www.seattletimes.com/sports/golf/teeing-off-mount-si-golf-course-is-great-for-beginners-and-offers-gorgeous-views/",
     "scott": 3,
     "craig": 3,
+    "par": 72,
     "Pub date": "July 24"
+  },
+  {
+    "name": "Auburn Golf Course",
+    "address": "29630 Green River Rd. S.E., Auburn, WA 98092",
+    "lat": 47.334719,
+    "lng": "-122.206529",
+    "url": "https://www.seattletimes.com/sports/golf/teeing-off-auburn-golf-course-delivers-good-value-and-a-fun-back-nine/",
+    "scott": 2.5,
+    "craig": 2.5,
+    "par": 71,
+    "Pub date": "August 7"
+  },
+  {
+    "name": "West Seattle Golf Course ",
+    "address": "4600 35th Ave. S.W., Seattle, WA 98126",
+    "lat": 47.5594,
+    "lng": "-122.3695",
+    "url": "https://www.seattletimes.com/sports/golf/teeing-off-west-seattle-g-c-is-a-municipal-course-the-city-can-be-proud-to-own/",
+    "scott": 3,
+    "craig": 3,
+    "par": 72,
+    "Pub date": "August 14"
   }
 ]
