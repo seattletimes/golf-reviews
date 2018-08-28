@@ -54,6 +54,7 @@
     "par": 72,
     "Pub date": "August 14"
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   {
     "name": "The Home Course",
@@ -65,6 +66,8 @@
     "craig": 3.5,
     "par": 72,
     "Pub date": "August 28"
+=======
+>>>>>>> 310c634fbdadc5ecbf52920abdcb70dc9873ede6
 =======
 >>>>>>> 310c634fbdadc5ecbf52920abdcb70dc9873ede6
   }
